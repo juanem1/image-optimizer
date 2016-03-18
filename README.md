@@ -6,7 +6,6 @@ In order to run this script you need to have installed jpgoptim [https://github.
 
 
 ## Usage
-sh image-optimizer.sh <path/to/folder>
 sh image-optimizer.sh /home/user/public/img
 
 ## Coming soon
